@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+
+b,img {
+    border: 3px blue dashed;
+    border-radius: 50px;
+}
+
+b {
+   padding: 5px; 
+   margin: 3px;
+}
+
+header {
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: blueviolet;
+    text-decoration: none blue;
+    border: 2px dashed blue;
+    border-radius: 50px;
+    
+}
+
+.ll,div {
+    background-color: blueviolet;
+}
+
+div {
+    border: 3px dashed blue;
+}
+
+a {
+    text-decoration: none;
+    border: 3px blue solid;
+    border-radius: 5px; 
+    padding: 3px;
+    margin: 5px;
+}
+
+nav {
+    margin: 20px;
+}
